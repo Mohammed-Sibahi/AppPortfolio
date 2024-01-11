@@ -1,0 +1,114 @@
+[
+  {
+    "name": "iPhone 15 Pro",
+    "color": "#000000",
+    "price": 1500,
+    "category": "Phones",
+    "image": "https://th.bing.com/th/id/OIP.IPvnuNhzcUvCoEysWIDoGAHaHa?rs=1&pid=ImgDetMain"
+  },
+  {
+    "name": "Samsung Galaxy S22",
+    "color": "#3498db",
+    "price": 1200,
+    "category": "Phones",
+    "image": "https://th.bing.com/th/id/OIP.IPvnuNhzcUvCoEysWIDoGAHaHa?rs=1&pid=ImgDetMain"
+  },
+  {
+    "name": "MacBook Air 2024",
+    "color": "#bdc3c7",
+    "price": 1800,
+    "category": "Laptops",
+    "image": "https://th.bing.com/th/id/OIP.IPvnuNhzcUvCoEysWIDoGAHaHa?rs=1&pid=ImgDetMain"
+  },
+  {
+    "name": "Sony PlayStation 5 Pro",
+    "color": "#e74c3c",
+    "price": 600,
+    "category": "Gaming Consoles",
+    "image": "https://th.bing.com/th/id/OIP.IPvnuNhzcUvCoEysWIDoGAHaHa?rs=1&pid=ImgDetMain"
+  },
+  {
+    "name": "Canon EOS R5",
+    "color": "#2ecc71",
+    "price": 3500,
+    "category": "Cameras",
+    "image": "https://th.bing.com/th/id/OIP.IPvnuNhzcUvCoEysWIDoGAHaHa?rs=1&pid=ImgDetMain"
+  },
+  {
+    "name": "Dell XPS 15",
+    "color": "#f39c12",
+    "price": 2000,
+    "category": "Laptops",
+    "image": "https://th.bing.com/th/id/OIP.IPvnuNhzcUvCoEysWIDoGAHaHa?rs=1&pid=ImgDetMain"
+  },
+  {
+    "name": "LG OLED C1 65-inch TV",
+    "color": "#8e44ad",
+    "price": 2500,
+    "category": "TVs",
+    "image": "https://th.bing.com/th/id/OIP.IPvnuNhzcUvCoEysWIDoGAHaHa?rs=1&pid=ImgDetMain"
+  },
+  {
+    "name": "Fitbit Charge 5",
+    "color": "#27ae60",
+    "price": 150,
+    "category": "Wearable Tech",
+    "image": "https://th.bing.com/th/id/OIP.IPvnuNhzcUvCoEysWIDoGAHaHa?rs=1&pid=ImgDetMain"
+  },
+  {
+    "name": "Amazon Echo Show 10",
+    "color": "#9b59b6",
+    "price": 250,
+    "category": "Smart Home",
+    "image": "https://th.bing.com/th/id/OIP.IPvnuNhzcUvCoEysWIDoGAHaHa?rs=1&pid=ImgDetMain"
+  },
+  {
+    "name": "GoPro Hero 10 Black",
+    "color": "#c0392b",
+    "price": 500,
+    "category": "Action Cameras",
+    "image": "https://th.bing.com/th/id/OIP.IPvnuNhzcUvCoEysWIDoGAHaHa?rs=1&pid=ImgDetMain"
+  },
+  {
+    "name": "Microsoft Surface Pro 8",
+    "color": "#2980b9",
+    "price": 1200,
+    "category": "Tablets",
+    "image": "https://th.bing.com/th/id/OIP.IPvnuNhzcUvCoEysWIDoGAHaHa?rs=1&pid=ImgDetMain"
+  },
+  {
+    "name": "Bose QuietComfort 45",
+    "color": "#ecf0f1",
+    "price": 300,
+    "category": "Headphones",
+    "image": "https://th.bing.com/th/id/OIP.IPvnuNhzcUvCoEysWIDoGAHaHa?rs=1&pid=ImgDetMain"
+  },
+  {
+    "name": "Nintendo Switch OLED",
+    "color": "#d35400",
+    "price": 350,
+    "category": "Gaming Consoles",
+    "image": "https://th.bing.com/th/id/OIP.IPvnuNhzcUvCoEysWIDoGAHaHa?rs=1&pid=ImgDetMain"
+  },
+  {
+    "name": "HP Spectre x360",
+    "color": "#7f8c8d",
+    "price": 1600,
+    "category": "Laptops",
+    "image": "https://th.bing.com/th/id/OIP.IPvnuNhzcUvCoEysWIDoGAHaHa?rs=1&pid=ImgDetMain"
+  },
+  {
+    "name": "Garmin Fenix 7",
+    "color": "#e67e22",
+    "price": 700,
+    "category": "Wearable Tech",
+    "image": "https://th.bing.com/th/id/OIP.IPvnuNhzcUvCoEysWIDoGAHaHa?rs=1&pid=ImgDetMain"
+  },
+  {
+    "name": "Sony WH-1000XM5",
+    "color": "#34495e",
+    "price": 350,
+    "category": "Headphones",
+    "image": "https://th.bing.com/th/id/OIP.IPvnuNhzcUvCoEysWIDoGAHaHa?rs=1&pid=ImgDetMain"
+  }
+]
