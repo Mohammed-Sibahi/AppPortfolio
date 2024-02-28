@@ -1,0 +1,53 @@
+﻿@page "/"
+
+<PageTitle>Home</PageTitle>
+
+<h1>@_group.Title</h1>
+
+<div class="row">
+	<div class="col-4">
+		<h3>Save new Contact</h3>
+		<div class="form-group">
+			<input type="text" @bind-value="@_name" class="form-control" placeholder="Ahmad Mozaffar" />
+		</div>
+		<div class="form-group">
+			<input type="text" @bind-value="@_phone" class="form-control mt-2" placeholder="Phone" />
+		</div>
+		<div class="form-group">
+			<input type="email" @bind-value="@_email" class="form-control mt-2" placeholder="Email" />
+		</div>
+		<button class="mt-3 btn btn-success" @onclick="Save">Save</button>
+	</div>
+
+	<div class="col-4">
+		@foreach (var contact in _group.Contacts)
+		{
+			<div class="row">
+				<div class="col-12" style="border: 1px solid black">
+					<h3>@contact.Name</h3>
+					<p>@contact.Phone</p>
+					<p>@contact.Email</p>
+				</div>
+			</div>
+		}
+	</div>
+</div>
+@code
+{
+	// UI Logic 
+	Group _group = new Group() // Application Context
+		{
+			Title = "Business Group"
+		};
+
+	// UI variables
+	private string _name;
+	private string _phone;
+	private string _email;
+
+	private void Save()
+	{
+		// Send name and phone to email to an online method via HTTP
+		_group.AddContact(_name, _phone, _email);
+	}
+}
